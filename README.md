@@ -1,0 +1,1 @@
+This project generates some basic HTML skills learned in The Odin Project.
